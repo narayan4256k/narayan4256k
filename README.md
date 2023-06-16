@@ -31,7 +31,7 @@
                         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣷⣶⣿⣿
 - 👀 I’m interested in ... HACKING 
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... rh🤣😘🤣
+- 💞️ I’m looking to collaborate on ... my crush🤣😘🤣
 - 📫 How to reach me ... no need to find me🤣🤣🤣
 
 <!---

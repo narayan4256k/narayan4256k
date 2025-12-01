@@ -64,7 +64,7 @@
 > ✨ A next-level personal portfolio where tech meets creativity — fully animated in 3D and built to impress.
 
 🧩 **Stack:** React, Vite, Three.js, Tailwind  
-🌐 **Live Demo:** [Narayan’s Interactive 3D Portfolio](narayanmalvankar.online)
+🌐 **Live Demo:** [https://www.narayanmalvankar.online/](https://www.narayanmalvankar.online/)
 
 ---
 

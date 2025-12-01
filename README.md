@@ -102,7 +102,7 @@
   <a href="https://wa.me/918390279723" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-   <a href="https://www.narayanmalvankar.online/" target="blank">
+   <a href="https://www.narayanmalvankar.online/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-dbb540?style=for-the-badge"/>
    </a>
 </p>

@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineer | 🧠 AI Enthusiast | 📊 Trader | 🌐 Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narayanmalvankar&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnarayan4256k&base=1500&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Focus-AI%20&%20Web%20Dev-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=flat-square" />
 </p>
